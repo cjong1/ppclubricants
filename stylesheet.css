@@ -1,10 +1,10 @@
-/** {
+* {
 	margin: 0;
 	border: 0;
 	padding: 0;
 	border: 0;
 	outline: 0;
-}*/
+}
 
 body {
 	font-family: Arial;
@@ -290,15 +290,59 @@ body {
 		padding: 10px 10px;
 		background: linear-gradient(#FFFFFF,#FFFFFF,#FFFFFF,#FEFFFA,#FFFBF2,#FEF7E6);
 	}
-#read {
+
+#read-1 {
 	background: linear-gradient(#FEF7E6,#FEF6E4,#FEF4DD);
 }
 
-#read img{
+
+#read-1 img{
 	width: 91px;
 	height: 24px;
 	margin-top: 0px;
 	margin-left: 116px;
 	display: inline-block;
 	margin-bottom: 10px;
+}
+
+#read-2 {
+	background: linear-gradient(#FEF7E6,#FEF6E4,#FEF4DD);
+}
+
+#read-2 img{
+	width: 91px;
+	height: 24px;
+	margin-top: 0px;
+	margin-left: 116px;
+	display: inline-block;
+	margin-bottom: 10px;
+	background: linear-gradient(#FEF7E6,#FEF6E4,#FEF4DD);
+}
+
+#read-3 {
+	background: linear-gradient(#FEF7E6,#FEF6E4,#FEF4DD);
+}
+
+#read-3 img{
+	width: 91px;
+	height: 24px;
+	margin-top: 0px;
+	margin-left: 116px;
+	display: inline-block;
+	margin-bottom: 10px;
+	background: linear-gradient(#FEF7E6,#FEF6E4,#FEF4DD);
+}
+
+#read-4 {
+	background: linear-gradient(#FEF7E6,#FEF6E4,#FEF4DD);
+}
+
+#read-4 img{
+	width: 91px;
+	height: 24px;
+	margin-top: 0px;
+	margin-left: 116px;
+	display: inline-block;
+	margin-bottom: 10px;
+	background: linear-gradient(#FEF7E6,#FEF6E4,#FEF4DD);
 }
